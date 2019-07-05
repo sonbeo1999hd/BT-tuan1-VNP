@@ -1,0 +1,209 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.login p a {
+    text-decoration: none;
+    color: white;
+}
+
+.footer ul li a:hover {
+    color:  red;
+}
+
+.footer ul li a {
+    text-decoration: none;
+}
+
+.footer ul h3 {
+    margin-bottom: 25px;
+}
+
+.footer ul {
+    justify-content: space-around;
+}
+
+.footer ul li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+p.return {
+    font-size: 20px;
+    text-align: center;
+    background: pink;
+    padding: 20px 0px;
+    cursor: pointer;
+}
+
+.hot p, .sale p {
+    margin-top: 30px;
+    background: green;
+    padding: 5px 20px;
+    width: 165px;
+    text-align: center;
+    margin-left: 46px;
+}
+
+.hot p {
+    margin-top: 51px;
+}
+
+.sale .price {
+    background: none;
+    /* margin-top: 13px; */
+    padding-top: 0px;
+}
+
+.hot h3, .sale h3 {
+    padding-left: 26px;
+}
+
+.sale {
+    width: 300px;
+}
+
+.hot img {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.sale img {
+    width: 90%;
+    margin-top: 50px;
+}
+
+.hot {
+    width: 300px;
+}
+
+.header input {
+    padding: 5px 20px;
+    width: 500px;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+
+.popular h3 {
+    padding-left: 11px;
+}
+
+.login {
+    margin-top: 50px;
+}
+
+.popular img {
+    width: 206px;
+}
+
+.popular {
+    margin-left: 30px;
+}
+
+.welcome p {
+    margin-top: 16px;
+    padding: 7px 30px;
+    background: rgb(247, 188, 147);
+    border-radius: 10px;
+}
+
+.popular ul li {
+    list-style: none;
+    /* margin-top: 24px; */
+    display: inline;
+}
+
+.nav ul li a:hover {
+    color: red;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav {
+    background: #3f3fbd;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar {
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.navbar ul li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 30px;
+}
+
+.navbar ul {
+    display: inline-block;
+}
+
+.navbar ul:first-child {
+    margin-right: 400px;
+}
+
+ul {}
+
+.popular ul {
+    display: block;
+}
+
+.nav .header input {
+    width: 600px;
+    padding: 5px;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+
+.header {
+    margin-top: 15px;
+    margin-left: 100px;
+}
+
+
+
+.nav .header button {
+    padding: 5px 25px;
+    border: 1px solid red;
+    border-radius: 8px;
+}
+
+.noidungchinh {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 82px;
+}
+.image{
+    position: relative;
+}
+.image  .text{
+    position: absolute;
+    left: 100px;
+    width: 300px;
+    top: 200px;
+}
+.image .p img{
+    width: 50%;
+}
+.image .p{
+    position: absolute;
+
+}
+.text h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
