@@ -6,6 +6,7 @@
 ## Liên kết
 * [Đề bài](https://www.lucidchart.com/pages/templates/wireframe/ecommerce-wireframe-template)
 * [Tài liệu](http://tutorials.codebar.io)
+* [Bài làm](https://sonbeo1999hd.github.io/index.html)
 ## Hướng dẫn sử dụng: 
 Click vào link bài làm ở trên hoặc dowload source code và chạy file index.html
 ## Kiến thức nắm được:
